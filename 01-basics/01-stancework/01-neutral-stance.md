@@ -1,7 +1,7 @@
 # Neutral Stance
 
-## Purpose
-The neutral stance is your default stance and your home base. The goal of the neutral stance is to be able to shift into any other stance, move in any direction, and throw any strike. By being smack in the middle of all positions, it gives you the most  flexibility and versatility.
+## Overview
+The neutral stance is your default stance and your home base. The goal of the neutral stance is to be able to shift into any other stance, move in any direction, and throw any strike. By being smack in the middle of all positions, it gives you the most flexibility and versatility.
 
 Here we will learn the most fundamental (and maybe most neutral) neutral stance. Eventually every fighter will develop their own preferred variation, whether that is more bladed/square, more forward/backward, etc. to favor their preferred fighting style, but this is where we start.
 

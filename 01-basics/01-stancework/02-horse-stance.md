@@ -1,7 +1,7 @@
 # Horse Stance
 
-## Purpose
-The kung fu classic. Named after the shape your legs make when riding a horse, horse stance (馬步) is the base for the jab, and its function is equally versatile. It allows us to jab, close distance, change level, and feint. It's basically a wider and lower version of the neutral stance.
+## Overview
+The kung fu classic. Named after the shape your legs make when riding a horse, horse stance (馬步) is the base for the jab, and its function is equally versatile. It's basically a wider and lower version of the neutral stance.
 
 ## Instruction
 1. From neutral stance, take a step forward with your front foot, without changing your foot's angle.
