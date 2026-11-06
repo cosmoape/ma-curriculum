@@ -11,3 +11,6 @@ As its name suggests, the reverse stance is almost the opposite of the front sta
 ## Checklist
 - [ ] As always, you should feel balanced, able to bounce, and come back to neutral stance.
 - [ ] Your feet flip like a switch - your front heel flips up and out at the sime time as your rear heel plants down, and your weight shifts over at the same time.
+
+## Tips
+- Imagine slamming a door, starting a lawnmower, getting ready to bat

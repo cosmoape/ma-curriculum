@@ -12,3 +12,6 @@ The front stance drives your rear hand attacks and the inside slip. In Chinese, 
 ## Checklist
 - [ ] You should feel well-balanced, able to bounce, and come back into horse stance.
 - [ ] Work on making this turn snappy and powerful. You should be able to switch back and forth between horse stance and front stance cleanly, without wobbling. 
+
+## Tips
+- Imagine throwing a ball

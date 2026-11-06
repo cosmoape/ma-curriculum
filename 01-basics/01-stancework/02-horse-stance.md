@@ -1,4 +1,4 @@
-# Horse Stance
+# Horse Stance / Split Stance
 
 ## Overview
 The kung fu classic. Named after the shape your legs make when riding a horse, horse stance (馬步) is the base for the jab, and its function is equally versatile. It's basically a wider and lower version of the neutral stance.
